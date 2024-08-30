@@ -12,19 +12,23 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
-          title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/learnwise.png"
+          title="Learnwise E-Learning web app"
+          description="Learn-wise is an innovative E-learning platform with user-centric features with modules containing admin,
+instructors and students (users)."
+          redirect="https://learnwise-client.vercel.app/"
         />
         <ProjectCard
-          src="/CardImage.png"
+          src="/phonebazaar.png"
           title="Interactive Website Cards"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          redirect="https://www.phonebazaar.shop/"
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
+          src="/aiinterviewmocker.png"
           title="Space Themed Website"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          redirect="https://ai-mock-interview.vercel.app/dashboard"
         />
       </div>
     </div>

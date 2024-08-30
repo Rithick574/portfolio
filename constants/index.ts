@@ -84,6 +84,7 @@ export const Skill_data = [
     {
       name: "Discord",
       src: "/instagram.svg",
+      url:"https://discord.com/channels/928696754327670814"
     },
     {
       name: "Facebook",
@@ -92,6 +93,7 @@ export const Skill_data = [
     {
       name: "Instagram",
       src: "/discord.svg",
+      url: "https://www.instagram.com/rithick______/"
     },
   ];
   
