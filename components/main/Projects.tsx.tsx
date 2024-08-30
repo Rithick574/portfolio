@@ -14,21 +14,19 @@ const Projects = () => {
         <ProjectCard
           src="/learnwise.png"
           title="Learnwise E-Learning web app"
-          description="Learn-wise is an innovative E-learning platform with user-centric features with modules containing admin,
-instructors and students (users)."
+          description="Learn-wise is an innovative E-learning platform with user-centric features with modules containing admin,instructors and students."
           redirect="https://learnwise-client.vercel.app/"
         />
         <ProjectCard
           src="/phonebazaar.png"
           title="Interactive Website Cards"
-          description="About
-This is an e-commerce application for selling smarphones. Built in monolithic MVC architecture, The stack I used is node.js with express for the backend, Mongodb as database, EJS as template engine for the frontend."
+          description="This is an e-commerce application for selling smarphones.Built using Node.js and Express as backend and EJS as frontend."
           redirect="https://www.phonebazaar.shop/"
         />
         <ProjectCard
           src="/aiinterviewmocker.png"
           title="Space Themed Website"
-          description="AI Mock Interview App is a cutting-edge application built with Next.js designed to help users practice and prepare for technical interviews. Leveraging the power of the Gemini API for AI-driven responses, this app simulates real-world interview scenarios, providing users with a comprehensive and interactive mock interview experience."
+          description="AI Mock Interview App is a cutting-edge application built with Next.js designed to help users practice and prepare for technical interviews."
           redirect="https://ai-mock-interview.vercel.app/dashboard"
         />
       </div>
