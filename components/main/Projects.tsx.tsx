@@ -21,13 +21,14 @@ instructors and students (users)."
         <ProjectCard
           src="/phonebazaar.png"
           title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="About
+This is an e-commerce application for selling smarphones. Built in monolithic MVC architecture, The stack I used is node.js with express for the backend, Mongodb as database, EJS as template engine for the frontend."
           redirect="https://www.phonebazaar.shop/"
         />
         <ProjectCard
           src="/aiinterviewmocker.png"
           title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="AI Mock Interview App is a cutting-edge application built with Next.js designed to help users practice and prepare for technical interviews. Leveraging the power of the Gemini API for AI-driven responses, this app simulates real-world interview scenarios, providing users with a comprehensive and interactive mock interview experience."
           redirect="https://ai-mock-interview.vercel.app/dashboard"
         />
       </div>
